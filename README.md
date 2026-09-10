@@ -31,5 +31,3 @@ Every generated scenario MUST include:
 3. وثيقة التلميذ (Fiche Élève): Problem statement, investigation worksheets, and solution comparison tables in 100% official Arabic technical terminology.
 4. ركن الحوصلة (Coin Synthèse): Structured summary of the target concept.
 5. شبكة التقييم: Points attribution for problem-solving performance.
-</instructions>
-</skill>
